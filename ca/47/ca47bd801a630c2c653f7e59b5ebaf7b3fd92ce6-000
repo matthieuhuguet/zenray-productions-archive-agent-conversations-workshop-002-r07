@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:5e6b1d94-df4b-4497-9bdb-05e0f95b8200",
+  "sessionId": "5e6b1d94-df4b-4497-9bdb-05e0f95b8200",
+  "provider": "gemini",
+  "title": "considère tout ce qui est pertinent dans Matthieu1.md en le lisant en entier et determine tout ce qui serait pertinent à ajouter dans ça peu",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/5e6b1d94-df4b-4497-9bdb-05e0f95b8200.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/5e6b1d94-df4b-4497-9bdb-05e0f95b8200.db",
+      "relativePath": "conversations/gemini/e1f2296eabb66c69/c4a8a63d72662728.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-04T16:31:47.998Z",
+  "stagedAt": "2026-10-04T08:29:01.597Z"
+}

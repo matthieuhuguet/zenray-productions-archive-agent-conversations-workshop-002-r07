@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:614b02bf-db3f-41fb-a34d-c2a5b91456ec",
+  "sessionId": "614b02bf-db3f-41fb-a34d-c2a5b91456ec",
+  "provider": "gemini",
+  "title": "crossover '/Users/zenray/Library/Application Support/CrossOver/Bottles/Control Resonant/drive_c/CONTROL Resonant/CONTROLResonant.exe' ne se ",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/614b02bf-db3f-41fb-a34d-c2a5b91456ec.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/614b02bf-db3f-41fb-a34d-c2a5b91456ec.db",
+      "relativePath": "conversations/gemini/e098e66473000337/1356574087bd7c0a.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-10-04T18:30:00.583Z",
+  "stagedAt": "2026-10-08T15:27:26.082Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:4e82cfd4-5e49-40b3-bbe8-68e702efbe1d",
+  "sessionId": "4e82cfd4-5e49-40b3-bbe8-68e702efbe1d",
+  "provider": "gemini",
+  "title": "reprends le contexte de ma scène houdini ouverte et dis moi ce que tu vois J'aimerai hide la voiture pour le moment.",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/4e82cfd4-5e49-40b3-bbe8-68e702efbe1d.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/4e82cfd4-5e49-40b3-bbe8-68e702efbe1d.db",
+      "relativePath": "conversations/gemini/def7a96ed0d31ec6/b4d7dcde30d94575.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-16T17:47:05.988Z",
+  "stagedAt": "2026-10-04T08:14:16.386Z"
+}

@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:ea806b7f-6204-469f-a285-0c296a0a7473",
+  "sessionId": "ea806b7f-6204-469f-a285-0c296a0a7473",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de recalculer Short 03 (Church) avec les sous-titres animes en canon 1s (pop dynamique 1.18, Inter",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/ea806b7f-6204-469f-a285-0c296a0a7473.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/ea806b7f-6204-469f-a285-0c296a0a7473.db",
+      "relativePath": "conversations/gemini/ffb1fa4c136c6729/687d3eace2ac22c9.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T21:02:34.537Z",
+  "stagedAt": "2026-10-04T08:20:46.695Z"
+}

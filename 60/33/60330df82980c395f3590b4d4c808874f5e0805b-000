@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:4f58925b-aeee-4896-8f2c-ad1217aacdbe",
+  "sessionId": "4f58925b-aeee-4896-8f2c-ad1217aacdbe",
+  "provider": "gemini",
+  "title": "quel intérêt d'utiliser un ide à l'ère des agents claude code desktop / codex et antigravity je comprends pas à quoi sert le produit antigra",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/4f58925b-aeee-4896-8f2c-ad1217aacdbe.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/4f58925b-aeee-4896-8f2c-ad1217aacdbe.db",
+      "relativePath": "conversations/gemini/fd18a93a6866f42b/e997267fc3672921.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-05T07:37:09.266Z",
+  "stagedAt": "2026-10-04T08:28:41.566Z"
+}

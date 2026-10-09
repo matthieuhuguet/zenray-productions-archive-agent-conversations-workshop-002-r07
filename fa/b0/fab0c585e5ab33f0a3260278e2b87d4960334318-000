@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:b940b74f-327b-43e8-af57-239fc7f30fa2",
+  "sessionId": "b940b74f-327b-43e8-af57-239fc7f30fa2",
+  "provider": "gemini",
+  "title": "C'est quoi un sha 256 je retrouve cette valeur dans beaucoup de mes projets notamment ZenRayProgress essaie de m'expliquer sommairement",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/b940b74f-327b-43e8-af57-239fc7f30fa2.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/b940b74f-327b-43e8-af57-239fc7f30fa2.db",
+      "relativePath": "conversations/gemini/ffd853390977e9c8/651a3a7721efc13c.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-07T10:52:08.522Z",
+  "stagedAt": "2026-10-04T08:25:46.217Z"
+}

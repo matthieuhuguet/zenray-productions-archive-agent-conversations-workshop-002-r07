@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:fe09484e-be0e-4a50-b8e5-af331da3e24b",
+  "sessionId": "fe09484e-be0e-4a50-b8e5-af331da3e24b",
+  "provider": "gemini",
+  "title": "Tu es le chercheur YouTube Shorts pour le projet Louisiana Bayou. Ta mission : 1. Utilise yt-dlp ou curl pour inspecter la chaîne https://ww",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/fe09484e-be0e-4a50-b8e5-af331da3e24b.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/fe09484e-be0e-4a50-b8e5-af331da3e24b.db",
+      "relativePath": "conversations/gemini/f4b9104e9cf61249/f938046c9ba8533f.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-19T20:24:33.803Z",
+  "stagedAt": "2026-10-04T08:09:45.998Z"
+}

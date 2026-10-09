@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:e3e22826-f0ad-4418-997d-3d2965b36636",
+  "sessionId": "e3e22826-f0ad-4418-997d-3d2965b36636",
+  "provider": "gemini",
+  "title": "combien de conversations usage en mode gratuit sur antigravity / gemini 3.8 high ?",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/e3e22826-f0ad-4418-997d-3d2965b36636.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/e3e22826-f0ad-4418-997d-3d2965b36636.db",
+      "relativePath": "conversations/gemini/fb78b35be1839cc2/babaf661e1d9e568.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-04T15:08:57.579Z",
+  "stagedAt": "2026-10-04T08:29:51.572Z"
+}

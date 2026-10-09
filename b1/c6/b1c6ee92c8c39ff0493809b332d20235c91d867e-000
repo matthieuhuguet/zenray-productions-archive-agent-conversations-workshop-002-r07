@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:47be0dd6-e63e-4cf3-84c9-9f6ac0f10610",
+  "sessionId": "47be0dd6-e63e-4cf3-84c9-9f6ac0f10610",
+  "provider": "gemini",
+  "title": "Tu es l'agent spécialisé dans la structure, le positionnement et les dimensions du Porche (Vestibule et Escalier) dans Houdini. Objectifs st",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/47be0dd6-e63e-4cf3-84c9-9f6ac0f10610.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/47be0dd6-e63e-4cf3-84c9-9f6ac0f10610.db",
+      "relativePath": "conversations/gemini/e8a1e1fb9bda720d/e33aa51333f40953.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-12T13:31:27.736Z",
+  "stagedAt": "2026-10-04T08:18:36.988Z"
+}

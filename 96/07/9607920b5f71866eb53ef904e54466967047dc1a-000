@@ -1,0 +1,20 @@
+{
+  "schemaVersion": 1,
+  "conversationId": "gemini:4958183f-0155-4507-844b-2822817071f4",
+  "sessionId": "4958183f-0155-4507-844b-2822817071f4",
+  "provider": "gemini",
+  "title": "Tu es l agent de composition video charge de recalculer Short 03 (Church) avec le nouveau titre Light / Italic et sous-titres canon 1s. Miss",
+  "projectId": null,
+  "originalPaths": [
+    "/Users/zenray/.gemini/antigravity/conversations/4958183f-0155-4507-844b-2822817071f4.db"
+  ],
+  "copies": [
+    {
+      "originalPath": "/Users/zenray/.gemini/antigravity/conversations/4958183f-0155-4507-844b-2822817071f4.db",
+      "relativePath": "conversations/gemini/fef65e583023bdd8/e401f0d7eeccbf85.db"
+    }
+  ],
+  "nativeTranscriptPresent": true,
+  "updatedAt": "2026-09-11T21:08:59.188Z",
+  "stagedAt": "2026-10-04T08:20:26.143Z"
+}
